@@ -1,6 +1,5 @@
 package br.com.caelum.ingresso.rest;
 
-import java.security.cert.PKIXRevocationChecker.Option;
 import java.util.Optional;
 
 import org.springframework.stereotype.Component;
