@@ -10,4 +10,10 @@ public class SemDesconto implements Descontos{
 		return precoOriginal;
 	}
 
+	@Override
+	public String getDescricao() {
+		// TODO Auto-generated method stub
+		return "Normal";
+	}
+
 }
